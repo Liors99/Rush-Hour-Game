@@ -1,5 +1,6 @@
 General:
 	1.In order to run the game, please make sure that the Car.py file is in the same folder as the version of the game you want to play.
+	2. Make sure you select one of the txt files (game0.txt, game1.txt...) as a command line argument before starting a game.
 
 Text version:
 	1. The program will ask you what car you want to move and how many units.
